@@ -51,7 +51,7 @@
                             <i class="bi bi-geo-alt"></i>
                             <h4>Localização:</h4>
                             <p>
-                                RRua Chaves de Oliveira, n.º 181 a 193,<br>4350-104 Porto<br>
+                                Rua Chaves de Oliveira <br>4350-104 Porto<br>
                                 Portugal</p>
                         </div>
 
