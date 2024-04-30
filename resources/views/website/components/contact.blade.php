@@ -51,21 +51,20 @@
                             <i class="bi bi-geo-alt"></i>
                             <h4>Localização:</h4>
                             <p>
-                                Rua da Liberdade, Nº 135 R/C<br>
-                                3700-169 São João da Madeira<br>
+                                RRua Chaves de Oliveira, n.º 181 a 193,<br>4350-104 Porto<br>
                                 Portugal</p>
                         </div>
 
                         <div class="col-lg-4 info mt-4 mt-lg-0">
                             <i class="bi bi-envelope"></i>
                             <h4>Email:</h4>
-                            <p>info@comerciodacidade.pt</p>
+                            <p>info@porto.market</p>
                         </div>
 
                         <div class="col-lg-4 info mt-4 mt-lg-0">
                             <i class="bi bi-phone"></i>
                             <h4>Contacto:</h4>
-                            <p>+351 910 898 931<br>
+                            <p>+351 912 341 906<br>
                                 (Chamada para rede movel nacional)</p>
                         </div>
                     </div>
